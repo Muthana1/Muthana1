@@ -19,7 +19,8 @@ I work mainly with Node.js, NestJS, Express.js, TypeScript, JavaScript, Java, Py
 * **Languages:** TypeScript, JavaScript, Java, Python, C++, SQL
 * **Databases:** PostgreSQL, MySQL, DynamoDB, SQL, NoSQL, TypeORM
 * **Cloud & Tools:** AWS, Docker, Railway, Git, GitHub, Jira, Postman, Swagger/OpenAPI
-* **Quality:** API testing, logs analysis, production support, debugging, CI/CD concepts, Agile/Scrum
+* **Other:** API testing, logs analysis, production support, CI/CD concepts, Agile/Scrum
+
 
 ## Featured Projects
 
