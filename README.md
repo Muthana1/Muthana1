@@ -1,4 +1,4 @@
-# Hi, I'm ALMOTHANA ALTA'MARI 👋
+# Hi, I'm Almothana Alta'mari👋
 
 Backend Developer focused on building scalable APIs, microservices, database-driven systems, and cloud-supported backend services.
 
