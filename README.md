@@ -1,8 +1,8 @@
-# Hi, I'm Almothana Alta'mari👋
+# Hi, I'm Almothana Alta'mari
 
 Backend Developer focused on building scalable APIs, microservices, database-driven systems, and cloud-supported backend services.
 
-I work mainly with **Node.js**, **NestJS**, **Express.js**, **TypeScript**, **JavaScript**, **Java**, **Python**, **C++**, **SQL**, and both **SQL/NoSQL databases**. I also have hands-on experience with **AWS infrastructure support**, logs, API debugging, production issue analysis, and backend systems for ride-hailing and real-time operational platforms.
+I work mainly with Node.js, NestJS, Express.js, TypeScript, JavaScript, Java, Python, C++, SQL, and SQL/NoSQL databases. I also have hands-on experience with AWS infrastructure support, logs, API debugging, production issue analysis, and backend systems for ride-hailing and real-time operational platforms.
 
 ## About Me
 
@@ -19,15 +19,15 @@ I work mainly with **Node.js**, **NestJS**, **Express.js**, **TypeScript**, **Ja
 **Languages:** TypeScript, JavaScript, Java, Python, C++, SQL
 **Databases:** PostgreSQL, MySQL, DynamoDB, SQL, NoSQL, TypeORM
 **Cloud & Tools:** AWS, Docker, Railway, Git, GitHub, Jira, Postman, Swagger/OpenAPI
-**Other:** API testing, logs analysis, production support, CI/CD concepts, Agile/Scrum
+**Quality:** API testing, logs analysis, production support, debugging, CI/CD concepts, Agile/Scrum
 
 ## Featured Projects
 
 ### BudgetTracker Bot
 
-Arabic-language Telegram budget tracking bot built with **Node.js**, **TypeScript**, **NestJS**, **PostgreSQL**, and **TypeORM**.
+Arabic-language Telegram budget tracking bot built with Node.js, TypeScript, NestJS, PostgreSQL, and TypeORM.
 
-Users can record income and expenses by sending natural Arabic messages directly in Telegram. The bot supports daily, weekly, monthly, and yearly summaries, PDF report export, transaction management, and database-backed tracking.
+Users can record income and expenses through natural chat messages. The bot supports daily, weekly, monthly, and yearly summaries, PDF report export, transaction management, and database-backed tracking.
 
 **Tech:** Node.js, TypeScript, NestJS, PostgreSQL, TypeORM, Telegram Bot API, Docker Compose, Railway, Jest
 
@@ -47,5 +47,5 @@ Built a machine learning system using the CIC-IDS-2017 dataset to detect cyber t
 
 ## Connect with Me
 
-* LinkedIn: https://www.linkedin.com/in/almothana-al-tamari99/
+* LinkedIn: linkedin.com/in/almothana-al-tamari99
 * Email: [mothanaaltamary99@gmail.com](mailto:mothanaaltamary99@gmail.com)
