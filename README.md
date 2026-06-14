@@ -47,5 +47,5 @@ Built a machine learning system using the CIC-IDS-2017 dataset to detect cyber t
 
 ## Connect with Me
 
-* LinkedIn: in/almothana-al-tamari99
+* LinkedIn: [in/almothana-al-tamari99](https://www.linkedin.com/in/almothana-al-tamari99/)
 * Email: [mothanaaltamary99@gmail.com](mailto:mothanaaltamary99@gmail.com)
