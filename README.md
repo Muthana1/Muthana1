@@ -15,11 +15,11 @@ I work mainly with Node.js, NestJS, Express.js, TypeScript, JavaScript, Java, Py
 
 ## Tech Stack
 
-**Backend:** Node.js, NestJS, Express.js, REST APIs, Microservices
-**Languages:** TypeScript, JavaScript, Java, Python, C++, SQL
-**Databases:** PostgreSQL, MySQL, DynamoDB, SQL, NoSQL, TypeORM
-**Cloud & Tools:** AWS, Docker, Railway, Git, GitHub, Jira, Postman, Swagger/OpenAPI
-**Quality:** API testing, logs analysis, production support, debugging, CI/CD concepts, Agile/Scrum
+* **Backend:** Node.js, NestJS, Express.js, REST APIs, Microservices
+* **Languages:** TypeScript, JavaScript, Java, Python, C++, SQL
+* **Databases:** PostgreSQL, MySQL, DynamoDB, SQL, NoSQL, TypeORM
+* **Cloud & Tools:** AWS, Docker, Railway, Git, GitHub, Jira, Postman, Swagger/OpenAPI
+* **Quality:** API testing, logs analysis, production support, debugging, CI/CD concepts, Agile/Scrum
 
 ## Featured Projects
 
@@ -27,7 +27,7 @@ I work mainly with Node.js, NestJS, Express.js, TypeScript, JavaScript, Java, Py
 
 Arabic-language Telegram budget tracking bot built with Node.js, TypeScript, NestJS, PostgreSQL, and TypeORM.
 
-Users can record income and expenses through natural chat messages. The bot supports daily, weekly, monthly, and yearly summaries, PDF report export, transaction management, and database-backed tracking.
+Users can record income and expenses by sending natural Arabic messages directly in Telegram. The bot supports daily, weekly, monthly, and yearly summaries, PDF report export, transaction management, and database-backed tracking.
 
 **Tech:** Node.js, TypeScript, NestJS, PostgreSQL, TypeORM, Telegram Bot API, Docker Compose, Railway, Jest
 
@@ -47,5 +47,5 @@ Built a machine learning system using the CIC-IDS-2017 dataset to detect cyber t
 
 ## Connect with Me
 
-* LinkedIn: linkedin.com/in/almothana-al-tamari99
+* LinkedIn: in/almothana-al-tamari99
 * Email: [mothanaaltamary99@gmail.com](mailto:mothanaaltamary99@gmail.com)
